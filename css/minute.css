@@ -1,0 +1,6 @@
+footer div.shopping{width: 100%;height: 2rem;position: fixed;bottom:0;background: darkgray;padding: 0.5rem 25% 0.5rem 25%;}
+footer div.shopping div{width: 50%;height:2rem;background:rgb(212,19,123);text-align: center;line-height: 2rem;}
+div.content div ul li img{width: 100%;}
+div.content div ul li span:last-of-type{text-decoration:line-through;font-size: 25px;margin-left: 20%;}
+header div.left{width:2rem;}
+header div.left img{width: 100%;}

@@ -1,0 +1,12 @@
+header span{color: white;margin-left: 39%;font-size: 1.3rem;}
+div.left img{width: 2.5rem;}
+div.content{padding: 2rem;}
+div.content div.input1 input{width: 100%;height: 2rem;font-size: 0.8rem;font-weight: 600;margin-top: 0.2rem;border: 0.1rem solid darkgray;border-radius: 0.4rem;background: white;box-shadow: rgba(0, 0, 0, 0.2) 0px 0px 8px;-moz-box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 8px;-webkit-box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 8px;outline: 0; }
+div.content button{width: 100%;background:rgb(212,19,123);border: none;font-size: 1.2rem;color: white;padding: 0.5rem 0 0.5rem 0;margin-top: 0.5rem;cursor:pointer;border-radius: 0.4rem;}
+div.input2{width: 100%;font-size: 0.7rem;padding: 1.5rem 0 0 0;}
+div.input2 span{margin-left: 1rem;}
+div.input3{width: 100%;font-size: 0.7rem;padding: 1rem 0 0 0;}
+div.input3 span{margin-left: 1rem;}
+p{color: red;}
+div.input2 span a{color:deeppink;}
+button a{color: white;font-weight: 600;}
